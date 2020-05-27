@@ -1,0 +1,23 @@
+term,concept_code,synonymterm,synonymcode,in_map
+Nocturia,10029446,Cystitis noninfectious,10063057,1
+Diarrhoea,10012735,Diarrhea,10012727,0
+Ageusia,10001480,Dysgeusia,10013911,1
+Dyspnoea,10013968,Dyspnea,10013963,1
+Pyrexia,10037660,Fever,10016558,0
+Haematochezia,10018836,Rectal hemorrhage,10038064,0
+Haematuria,10018867,Hematuria,10019450,0
+Hot flush,10060800,Hot flashes,10020407,0
+Incontinence,10021639,Urinary incontinence,10046543,1
+Mucosal inflammation,10028116,Mucositis oral,10028130,0
+Odynophagia,10030094,Oropharyngeal pain,10068319,0
+Discomfort,10013082,Pain,10033371,1
+Tenderness,10043224,Pain,10033371,1
+Erythema,10015150,Dermatitis radiation,10061103,0
+Hyperaemia,10020565,Dermatitis radiation,10061103,0
+Skin exfoliation,10040844,Dermatitis radiation,10061103,0
+Swelling,10042674,Limb edema,10050068,0
+Oedema,10030095,Limb edema,10050068,0
+Oedema peripheral,10030124,Limb edema,10050068,0
+Oral candidiasis,10030963,Thrush,10043649,0
+Asthenia,10003549,Generalized muscle weakness,10062572,0
+Aptyalism,10003068,Dry mouth,10013781,1
