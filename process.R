@@ -1,5 +1,9 @@
-#extracting data and consolidating NLP
-#copyright Duke University/Julian Hong
+#process.R
+#translates cTakes SNOMED output into CTCAE
+#based on manual review of 100 rad onc notes
+#copyright Duke University, Julian Hong
+#GNU GPL v2.0 license
+
 
 #load notes extracts
 
